@@ -1,4 +1,3 @@
-# Portifólio do Perfil
 # Beatriz Matias
 
 ## Um pouco sobre mim.
@@ -10,7 +9,7 @@ Atualmente estou terminando a minha faculdade de Análise e Desenvolvimento de S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/beamatias/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/trizmatiaas/)
 
-## Minhas Habilidades
+## Habilidades
 
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=264CE4)
