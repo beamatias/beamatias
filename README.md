@@ -1,7 +1,5 @@
 # Beatriz Matias
 
-## Um pouco sobre mim.
-
 Atualmente estou terminando a minha faculdade de Análise e Desenvolvimento de Sistemas e iniciando carreira na área da tecnologia na qual sempre fui muito apaixonada!
 
 ## Conecte-se comigo
