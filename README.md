@@ -1,6 +1,6 @@
 # Beatriz Matias
 
-Atualmente estou terminando a minha faculdade de Análise e Desenvolvimento de Sistemas e iniciando carreira na área da tecnologia na qual sempre fui muito apaixonada!
+Formada em Análise e Desenvolvimento de Sistemas, com especialidade em Front-end, estou atualmente iniciando carreira na área da tecnologia na qual sempre fui muito apaixonada!
 
 ## Conecte-se comigo
 
