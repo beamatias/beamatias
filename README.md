@@ -1,6 +1,6 @@
 # Beatriz Matias
 
-Formada em Análise e Desenvolvimento de Sistemas, com especialidade em Front-end, estou atualmente iniciando carreira na área da tecnologia na qual sempre fui muito apaixonada!
+Formada em Análise e Desenvolvimento de Sistemas, atualmente estou cursando pós-graduação em Desenvolvimento Full Stack e iniciando carreira na área da tecnologia na qual sempre fui muito apaixonada!
 
 ## Habilidades
 
